@@ -8,12 +8,14 @@
 
 #red{
 	background: red;
+	border-top-width:1px;
 	border-width:1px;
 	border: solid black;
 }
 
 #green{
 	background: green;
+	border-top-width:1px;
 	border-width:1px;
 	border: solid yellow;
 }
